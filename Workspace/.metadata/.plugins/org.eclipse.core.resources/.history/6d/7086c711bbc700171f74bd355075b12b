@@ -1,0 +1,10 @@
+package br.com.herbalife.dao;
+
+public class EnderecoDao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

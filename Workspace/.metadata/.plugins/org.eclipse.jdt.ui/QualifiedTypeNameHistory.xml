@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="br.com.herbalife.util.EntityManagerUtil"/>
+<fullyQualifiedTypeName name="java.lang.reflect.ParameterizedType"/>
+<fullyQualifiedTypeName name="br.com.herbalife.entidades.Endereco"/>
+<fullyQualifiedTypeName name="br.com.herbalife.entidades.Produto"/>
+<fullyQualifiedTypeName name="br.com.herbalife.dao.ClienteDao"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="br.com.herbalife.entidades.Cliente"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="br.com.herbalife.entidades.Pedido"/>
+<fullyQualifiedTypeName name="br.com.herbalife.dao.GenericDao"/>
+<fullyQualifiedTypeName name="br.com.herbalife.dao.UsuarioDao"/>
+<fullyQualifiedTypeName name="br.com.herbalife.entidades.Usuario"/>
+</qualifiedTypeNameHistroy>
